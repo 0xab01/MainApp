@@ -4,7 +4,7 @@ import React from 'react';
 export function Com() {
   return (
     <div>
-      <h1>HLO</h1>
+      <h1>Error 404</h1>
     </div>
   );
 }
